@@ -188,7 +188,7 @@ public class mainFrame extends javax.swing.JFrame {
                 boolean situation = countDown(0);
             }
         }, 
-        120000 
+        1200000 
 );
 
       this.setVisible(false);
